@@ -108,7 +108,7 @@ Resources:
     Type: AWS::Logs::LogGroup
     Properties:
       LogGroupName: !Sub /aws/lambda/${lambdaFunctionName}
-      RetentionInDays: 90
+      RetentionInDays: 60
 
 Outputs:
   apiGatewayInvokeURL:
