@@ -1,4 +1,4 @@
-emplate that will create the following:
+Template that will create the following:
 
 API Gateway:
 Deployed as a REGIONAL endpoint.
